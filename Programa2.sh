@@ -1,3 +1,4 @@
+#Tabla de multiplicar
 echo  "Dime un Numero"
 read x
 a=1
