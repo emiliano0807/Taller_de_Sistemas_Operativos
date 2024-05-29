@@ -3,7 +3,7 @@ do
 echo "Menu Principal"
 echo "1.- Tabla de miltiplicar"
 echo "2.- Factorial de X numero"
-echo "3.- Tablas de multiplicar"
+echo "3.- Tablas de multiplicar"X
 echo "4.- Z²=X²+Y²"
 echo "5.- Edad"
 echo "6.- N° de control"
